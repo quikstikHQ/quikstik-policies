@@ -22,7 +22,7 @@ This policy is split into sections. For your convenience, links to each of those
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
 * [Changes and questions](#changes-and-questions)
 
-This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard (together, "37signals"). If you are applying for a job at 37signals, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by Quikstik, Inc. If you are applying for a job at Quikstik, please review our [Recruitment Privacy policy](recruitment/index.md).
 
 This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with 37signals). We refer collectively to these categories of individuals as "you" throughout this policy.
 
