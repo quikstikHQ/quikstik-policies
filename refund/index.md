@@ -21,6 +21,6 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what's up, and we'll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ support@quikstik.com }}), tell us what's up, and we'll work with you to make sure you’re happy.
 
-**This policy applies to any product created and owned by 37signals LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List. There are [some nuances with HEY](hey/index.md) because its subscriptions are on an annual basis only.*
+**This policy applies to any product created and owned by Quikstik, Inc..*

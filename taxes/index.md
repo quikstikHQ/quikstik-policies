@@ -1,5 +1,6 @@
 ---
-title: 37signals and Taxes
+QS Status: Needs work
+title: Quikstik and Taxes
 description: We are required to collect and remit sales tax in a number of jurisdictions.
 ---
 
